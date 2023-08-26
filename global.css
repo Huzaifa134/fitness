@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --desktop-button-text: "Helvetica Now Text ";
+  --caption-semibold: Inter;
+  --font-proxima-nova: "Proxima Nova";
+  --font-poppins: Poppins;
+  --font-helvetica-now-display: "Helvetica Now Display";
+  --font-font-awesome-5-free: "Font Awesome 5 Free";
+  --font-nunito-sans: "Nunito Sans";
+
+  /* font sizes */
+  --desktop-button-text-size: 16px;
+  --font-size-sm: 14px;
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+  --font-size-11xl: 30px;
+  --font-size-13xl: 32px;
+  --font-size-5xl: 24px;
+  --font-size-3xl: 22px;
+  --font-size-15xl: 34px;
+  --caption-semibold-size: 10px;
+  --font-size-4xs-4: 8.4px;
+  --font-size-base-8: 16.8px;
+  --font-size-xs: 12px;
+
+  /* Colors */
+  --day-primary-black: #000;
+  --color-white: #fff;
+  --day-greyscale-grey-dark: #888;
+  --color-gray-100: #252525;
+  --color-gray-200: rgba(0, 0, 0, 0.05);
+  --day-primary-yellow: #fff200;
+  --color-deepskyblue-100: #23bdee;
+  --color-deepskyblue-200: #15a2da;
+  --color-turquoise: #08d3bb;
+  --color-steelblue-100: #1090cb;
+  --light-blue-vivid-light-blue-vivid-900: #035388;
+  --color-mediumseagreen: #58c087;
+  --secondary-600: #3b3c4a;
+  --color-darkslategray-100: #323232;
+  --color-darkslateblue-100: rgba(23, 27, 65, 0.5);
+  --e: #63657e;
+  --light-blue-vivid-light-blue-vivid-050: #e3f8ff;
+  --color-lightslategray: #8692a6;
+  --f4e: #090f4e;
+  --color-lightsteelblue: rgba(201, 211, 231, 0.4);
+
+  /* Gaps */
+  --gap-13xl: 32px;
+  --gap-3xs: 10px;
+  --gap-5xl: 24px;
+  --gap-6xs: 7px;
+
+  /* Paddings */
+  --padding-5xs: 8px;
+  --padding-base: 16px;
+  --padding-xl: 20px;
+  --padding-5xl: 24px;
+  --padding-9xs: 4px;
+  --padding-11xs: 2px;
+  --padding-xs: 12px;
+
+  /* border radiuses */
+  --br-5xs: 8px;
+  --br-xl: 20px;
+  --br-3xs: 10px;
+  --br-61xl: 80px;
+  --br-5xl: 24px;
+  --br-7xs: 6px;
+  --br-12xs-4: 0.4px;
+  --br-8xs-2: 4.2px;
+  --br-19xl-7: 38.7px;
+}
